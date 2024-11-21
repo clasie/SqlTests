@@ -5,7 +5,9 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqlTests", "SqlTests.csproj", "{7613F5CE-1689-4EED-A2C2-748C5322547F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsPostuler", "..\WinFormsPostuler\WinFormsPostuler.csproj", "{FFEEB8A3-90AD-4887-88C4-18BE28589E4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsPostuler", "..\WinFormsPostuler\WinFormsPostuler.csproj", "{FFEEB8A3-90AD-4887-88C4-18BE28589E4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "..\TestProject1\TestProject1.csproj", "{7721E07D-0FC3-432D-8EB5-754535BF8423}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FFEEB8A3-90AD-4887-88C4-18BE28589E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFEEB8A3-90AD-4887-88C4-18BE28589E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFEEB8A3-90AD-4887-88C4-18BE28589E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7721E07D-0FC3-432D-8EB5-754535BF8423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7721E07D-0FC3-432D-8EB5-754535BF8423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7721E07D-0FC3-432D-8EB5-754535BF8423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7721E07D-0FC3-432D-8EB5-754535BF8423}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
